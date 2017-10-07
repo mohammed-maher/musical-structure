@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyBeats</string>
+    <string name="first_song">Adele - Hello</string>
+    <string name="second_song">Daddy - Psy</string>
+    <string name="third_song">Mene Gel - Eresow</string>
+    <string name="fourth_song">Yaxsi olar - Uzeyir</string>
+    <string name="fifth_song">Mey - Farmisk</string>
+    <string name="play_list">Play List</string>
+    <string name="tracks">Tracks</string>
+    <string name="albums">Albums</string>
+    <string name="genres">Genres</string>
+    <string name="artists">Artists</string>
+</resources>
